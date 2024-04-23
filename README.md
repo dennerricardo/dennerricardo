@@ -1,7 +1,7 @@
 # Welcome to my github 
 😃 Hi, I am Denner  
 
-📚 I'm graduated in Information Systems at UNIFACISA 
+📚 I'm graduated in Information Systems at UNIFACISA  
 
 💻 I'm currently working as a Test Automation Developer
 
@@ -9,7 +9,10 @@
 
 📫  https://www.linkedin.com/in/dennerricardo/
 
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dennerricardo&layout=compact&langs_count=7&theme=dracula"/>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dennerricardo&show_icons=true&theme=dracula)
+
 
 <!--
 **dennerricardo/dennerricardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
