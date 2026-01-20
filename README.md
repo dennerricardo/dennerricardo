@@ -1,19 +1,20 @@
 # Welcome to my github 
-😃 Hi, I am Denner  
+😃 Hi, I'm Denner Ricardo 
 
-📚 I'm graduated in Information Systems at UNIFACISA  
+📚 Bachelor’s in Information Systems
+    ISTQB® CTFL certified.
 
-💻 I'm currently working as a Test Automation Developer
+💻 QA Engineer with 5+ years of experience in web automation and manual web/mobile testing.
+    Strong background with Selenium, Playwright, Python, Cucumber, and TestNG.
 
-💬 Here you can find project that I use to study and improve skills.
+💬 Here you will find projects I use to study, practice, and continuously improve my skills.
 
-📫  https://www.linkedin.com/in/dennerricardo/
+📫  Linked IN : https://www.linkedin.com/in/dennerricardo/ 
+     Email : denner.ricardo@gmail.com 
 
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dennerricardo&layout=compact&langs_count=7&theme=dracula"/>
+![dennerricardo's Stats](https://github-readme-stats.vercel.app/api?username=dennerricardo&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dennerricardo&show_icons=true&theme=dracula)
-
-
+![dennerricardo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dennerricardo&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 <!--
 **dennerricardo/dennerricardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
