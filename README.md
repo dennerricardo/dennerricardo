@@ -3,7 +3,7 @@
 
 📚 Bachelor’s in Information Systems, ISTQB® CTFL certified.
 
-💻 QA Engineer with 5+ years of experience in web automation and manual web/mobile testing. Strong background with Selenium, Playwright and Cucumber.
+💻 QA Engineer with 5+ years of experience in web automation and manual web/mobile testing.
 
 💬 Here you will find projects I use to study, practice, and continuously improve my skills.
 
